@@ -94,6 +94,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton44.setBackground(new java.awt.Color(0, 0, 0));
         jButton44.setForeground(new java.awt.Color(255, 255, 255));
+        jButton44.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton44.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton44);
 
@@ -103,6 +104,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton2.setBackground(new java.awt.Color(0, 0, 0));
         jButton2.setForeground(new java.awt.Color(255, 255, 255));
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton2.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton2);
 
@@ -112,6 +114,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton4.setBackground(new java.awt.Color(0, 0, 0));
         jButton4.setForeground(new java.awt.Color(255, 255, 255));
+        jButton4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton4);
 
@@ -121,6 +124,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton45.setBackground(new java.awt.Color(0, 0, 0));
         jButton45.setForeground(new java.awt.Color(255, 255, 255));
+        jButton45.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton45.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton45);
 
@@ -134,6 +138,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton33.setBackground(new java.awt.Color(0, 0, 0));
         jButton33.setForeground(new java.awt.Color(255, 255, 255));
+        jButton33.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton33.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton33);
 
@@ -143,6 +148,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton41.setBackground(new java.awt.Color(0, 0, 0));
         jButton41.setForeground(new java.awt.Color(255, 255, 255));
+        jButton41.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton41.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton41);
 
@@ -152,6 +158,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton56.setBackground(new java.awt.Color(0, 0, 0));
         jButton56.setForeground(new java.awt.Color(255, 255, 255));
+        jButton56.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton56.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton56);
 
@@ -161,11 +168,13 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton55.setBackground(new java.awt.Color(0, 0, 0));
         jButton55.setForeground(new java.awt.Color(0, 0, 0));
+        jButton55.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton55.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton55);
 
         jButton43.setBackground(new java.awt.Color(0, 0, 0));
         jButton43.setForeground(new java.awt.Color(255, 255, 255));
+        jButton43.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton43.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton43);
 
@@ -175,6 +184,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton38.setBackground(new java.awt.Color(0, 0, 0));
         jButton38.setForeground(new java.awt.Color(255, 255, 255));
+        jButton38.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton38.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton38);
 
@@ -184,6 +194,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton57.setBackground(new java.awt.Color(0, 0, 0));
         jButton57.setForeground(new java.awt.Color(255, 255, 255));
+        jButton57.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton57.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton57);
 
@@ -193,6 +204,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton37.setBackground(new java.awt.Color(0, 0, 0));
         jButton37.setForeground(new java.awt.Color(255, 255, 255));
+        jButton37.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaRoja.png"))); // NOI18N
         jButton37.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton37);
 
@@ -278,6 +290,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton6.setBackground(new java.awt.Color(0, 0, 0));
         jButton6.setForeground(new java.awt.Color(255, 255, 255));
+        jButton6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton6.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton6);
 
@@ -287,6 +300,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton8.setBackground(new java.awt.Color(0, 0, 0));
         jButton8.setForeground(new java.awt.Color(255, 255, 255));
+        jButton8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton8.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton8);
 
@@ -296,6 +310,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton47.setBackground(new java.awt.Color(0, 0, 0));
         jButton47.setForeground(new java.awt.Color(255, 255, 255));
+        jButton47.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton47.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton47);
 
@@ -305,11 +320,13 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton10.setBackground(new java.awt.Color(0, 0, 0));
         jButton10.setForeground(new java.awt.Color(255, 255, 255));
+        jButton10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton10.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton10);
 
         jButton59.setBackground(new java.awt.Color(0, 0, 0));
         jButton59.setForeground(new java.awt.Color(255, 255, 255));
+        jButton59.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton59.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton59);
 
@@ -319,6 +336,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton61.setBackground(new java.awt.Color(0, 0, 0));
         jButton61.setForeground(new java.awt.Color(255, 255, 255));
+        jButton61.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton61.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton61);
 
@@ -328,6 +346,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton11.setBackground(new java.awt.Color(0, 0, 0));
         jButton11.setForeground(new java.awt.Color(255, 255, 255));
+        jButton11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton11.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton11);
 
@@ -337,6 +356,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton13.setBackground(new java.awt.Color(0, 0, 0));
         jButton13.setForeground(new java.awt.Color(255, 255, 255));
+        jButton13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton13.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton13);
 
@@ -350,6 +370,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton15.setBackground(new java.awt.Color(0, 0, 0));
         jButton15.setForeground(new java.awt.Color(255, 255, 255));
+        jButton15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton15.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton15);
 
@@ -359,6 +380,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton51.setBackground(new java.awt.Color(0, 0, 0));
         jButton51.setForeground(new java.awt.Color(255, 255, 255));
+        jButton51.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton51.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton51);
 
@@ -368,6 +390,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton16.setBackground(new java.awt.Color(0, 0, 0));
         jButton16.setForeground(new java.awt.Color(255, 255, 255));
+        jButton16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton16.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton16);
 
@@ -377,6 +400,7 @@ public class Tablero extends javax.swing.JFrame {
 
         jButton28.setBackground(new java.awt.Color(0, 0, 0));
         jButton28.setForeground(new java.awt.Color(255, 255, 255));
+        jButton28.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Recursos/FichaNegra.png"))); // NOI18N
         jButton28.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton28);
 
