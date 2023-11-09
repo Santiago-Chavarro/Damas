@@ -91,69 +91,293 @@ public class Tablero extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         panel1.setLayout(new java.awt.GridLayout(8, 8));
+
+        jButton44.setBackground(new java.awt.Color(0, 0, 0));
+        jButton44.setForeground(new java.awt.Color(255, 255, 255));
+        jButton44.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton44);
+
+        jButton1.setBackground(new java.awt.Color(255, 255, 255));
+        jButton1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton1);
+
+        jButton2.setBackground(new java.awt.Color(0, 0, 0));
+        jButton2.setForeground(new java.awt.Color(255, 255, 255));
+        jButton2.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton2);
+
+        jButton3.setBackground(new java.awt.Color(255, 255, 255));
+        jButton3.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton3);
+
+        jButton4.setBackground(new java.awt.Color(0, 0, 0));
+        jButton4.setForeground(new java.awt.Color(255, 255, 255));
+        jButton4.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton4);
+
+        jButton17.setBackground(new java.awt.Color(255, 255, 255));
+        jButton17.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton17);
+
+        jButton45.setBackground(new java.awt.Color(0, 0, 0));
+        jButton45.setForeground(new java.awt.Color(255, 255, 255));
+        jButton45.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton45);
+
+        jButton5.setBackground(new java.awt.Color(255, 255, 255));
+        jButton5.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton5);
+
+        jButton25.setBackground(new java.awt.Color(255, 255, 255));
+        jButton25.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton25);
+
+        jButton33.setBackground(new java.awt.Color(0, 0, 0));
+        jButton33.setForeground(new java.awt.Color(255, 255, 255));
+        jButton33.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton33);
+
+        jButton32.setBackground(new java.awt.Color(255, 255, 255));
+        jButton32.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton32);
+
+        jButton41.setBackground(new java.awt.Color(0, 0, 0));
+        jButton41.setForeground(new java.awt.Color(255, 255, 255));
+        jButton41.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton41);
+
+        jButton39.setBackground(new java.awt.Color(255, 255, 255));
+        jButton39.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton39);
+
+        jButton56.setBackground(new java.awt.Color(0, 0, 0));
+        jButton56.setForeground(new java.awt.Color(255, 255, 255));
+        jButton56.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton56);
+
+        jButton54.setBackground(new java.awt.Color(255, 255, 255));
+        jButton54.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton54);
+
+        jButton55.setBackground(new java.awt.Color(0, 0, 0));
+        jButton55.setForeground(new java.awt.Color(0, 0, 0));
+        jButton55.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton55);
+
+        jButton43.setBackground(new java.awt.Color(0, 0, 0));
+        jButton43.setForeground(new java.awt.Color(255, 255, 255));
+        jButton43.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton43);
+
+        jButton40.setBackground(new java.awt.Color(255, 255, 255));
+        jButton40.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton40);
+
+        jButton38.setBackground(new java.awt.Color(0, 0, 0));
+        jButton38.setForeground(new java.awt.Color(255, 255, 255));
+        jButton38.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton38);
+
+        jButton36.setBackground(new java.awt.Color(255, 255, 255));
+        jButton36.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton36);
+
+        jButton57.setBackground(new java.awt.Color(0, 0, 0));
+        jButton57.setForeground(new java.awt.Color(255, 255, 255));
+        jButton57.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton57);
+
+        jButton49.setBackground(new java.awt.Color(255, 255, 255));
+        jButton49.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton49);
+
+        jButton37.setBackground(new java.awt.Color(0, 0, 0));
+        jButton37.setForeground(new java.awt.Color(255, 255, 255));
+        jButton37.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton37);
+
+        jButton35.setBackground(new java.awt.Color(255, 255, 255));
+        jButton35.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton35);
+
+        jButton53.setBackground(new java.awt.Color(255, 255, 255));
+        jButton53.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton53);
+
+        jButton52.setBackground(new java.awt.Color(0, 0, 0));
+        jButton52.setForeground(new java.awt.Color(255, 255, 255));
+        jButton52.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton52);
+
+        jButton50.setBackground(new java.awt.Color(255, 255, 255));
+        jButton50.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton50);
+
+        jButton34.setBackground(new java.awt.Color(0, 0, 0));
+        jButton34.setForeground(new java.awt.Color(255, 255, 255));
+        jButton34.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton34);
+
+        jButton42.setBackground(new java.awt.Color(255, 255, 255));
+        jButton42.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton42);
+
+        jButton24.setBackground(new java.awt.Color(0, 0, 0));
+        jButton24.setForeground(new java.awt.Color(255, 255, 255));
+        jButton24.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton24);
+
+        jButton31.setBackground(new java.awt.Color(255, 255, 255));
+        jButton31.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton31);
+
+        jButton64.setBackground(new java.awt.Color(0, 0, 0));
+        jButton64.setForeground(new java.awt.Color(255, 255, 255));
+        jButton64.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton64);
+
+        jButton30.setBackground(new java.awt.Color(0, 0, 0));
+        jButton30.setForeground(new java.awt.Color(255, 255, 255));
+        jButton30.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton30);
+
+        jButton27.setBackground(new java.awt.Color(255, 255, 255));
+        jButton27.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton27);
+
+        jButton23.setBackground(new java.awt.Color(0, 0, 0));
+        jButton23.setForeground(new java.awt.Color(255, 255, 255));
+        jButton23.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton23);
+
+        jButton22.setBackground(new java.awt.Color(255, 255, 255));
+        jButton22.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton22);
+
+        jButton21.setBackground(new java.awt.Color(0, 0, 0));
+        jButton21.setForeground(new java.awt.Color(255, 255, 255));
+        jButton21.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton21);
+
+        jButton20.setBackground(new java.awt.Color(255, 255, 255));
+        jButton20.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton20);
+
+        jButton19.setBackground(new java.awt.Color(0, 0, 0));
+        jButton19.setForeground(new java.awt.Color(255, 255, 255));
+        jButton19.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton19);
+
+        jButton18.setBackground(new java.awt.Color(255, 255, 255));
+        jButton18.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton18);
+
+        jButton63.setBackground(new java.awt.Color(255, 255, 255));
+        jButton63.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton63);
+
+        jButton6.setBackground(new java.awt.Color(0, 0, 0));
+        jButton6.setForeground(new java.awt.Color(255, 255, 255));
+        jButton6.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton6);
+
+        jButton7.setBackground(new java.awt.Color(255, 255, 255));
+        jButton7.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton7);
+
+        jButton8.setBackground(new java.awt.Color(0, 0, 0));
+        jButton8.setForeground(new java.awt.Color(255, 255, 255));
+        jButton8.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton8);
+
+        jButton9.setBackground(new java.awt.Color(255, 255, 255));
+        jButton9.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton9);
+
+        jButton47.setBackground(new java.awt.Color(0, 0, 0));
+        jButton47.setForeground(new java.awt.Color(255, 255, 255));
+        jButton47.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton47);
+
+        jButton48.setBackground(new java.awt.Color(255, 255, 255));
+        jButton48.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton48);
+
+        jButton10.setBackground(new java.awt.Color(0, 0, 0));
+        jButton10.setForeground(new java.awt.Color(255, 255, 255));
+        jButton10.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton10);
+
+        jButton59.setBackground(new java.awt.Color(0, 0, 0));
+        jButton59.setForeground(new java.awt.Color(255, 255, 255));
+        jButton59.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton59);
+
+        jButton62.setBackground(new java.awt.Color(255, 255, 255));
+        jButton62.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton62);
+
+        jButton61.setBackground(new java.awt.Color(0, 0, 0));
+        jButton61.setForeground(new java.awt.Color(255, 255, 255));
+        jButton61.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton61);
+
+        jButton29.setBackground(new java.awt.Color(255, 255, 255));
+        jButton29.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton29);
+
+        jButton11.setBackground(new java.awt.Color(0, 0, 0));
+        jButton11.setForeground(new java.awt.Color(255, 255, 255));
+        jButton11.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton11);
+
+        jButton12.setBackground(new java.awt.Color(255, 255, 255));
+        jButton12.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton12);
+
+        jButton13.setBackground(new java.awt.Color(0, 0, 0));
+        jButton13.setForeground(new java.awt.Color(255, 255, 255));
+        jButton13.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton13);
+
+        jButton14.setBackground(new java.awt.Color(255, 255, 255));
+        jButton14.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton14);
+
+        jButton46.setBackground(new java.awt.Color(255, 255, 255));
+        jButton46.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton46);
+
+        jButton15.setBackground(new java.awt.Color(0, 0, 0));
+        jButton15.setForeground(new java.awt.Color(255, 255, 255));
+        jButton15.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton15);
+
+        jButton60.setBackground(new java.awt.Color(255, 255, 255));
+        jButton60.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton60);
+
+        jButton51.setBackground(new java.awt.Color(0, 0, 0));
+        jButton51.setForeground(new java.awt.Color(255, 255, 255));
+        jButton51.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton51);
+
+        jButton58.setBackground(new java.awt.Color(255, 255, 255));
+        jButton58.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton58);
+
+        jButton16.setBackground(new java.awt.Color(0, 0, 0));
+        jButton16.setForeground(new java.awt.Color(255, 255, 255));
+        jButton16.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton16);
+
+        jButton26.setBackground(new java.awt.Color(255, 255, 255));
+        jButton26.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         panel1.add(jButton26);
+
+        jButton28.setBackground(new java.awt.Color(0, 0, 0));
+        jButton28.setForeground(new java.awt.Color(255, 255, 255));
+        jButton28.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
         panel1.add(jButton28);
 
         jMenu1.setText("Reiniciar");
